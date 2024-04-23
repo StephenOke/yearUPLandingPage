@@ -1,0 +1,21 @@
+html{
+    background-color: pink;
+}
+header, img{
+    margin-top: auto;
+    margin-left: 25%;
+}
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: 2px;
+    width: 45%;
+    height: 45%;
+   
+    border: solid black 2px;
+}
+article{
+    
+    margin-top: auto;
+    margin-left: 35%;
+}
+  
